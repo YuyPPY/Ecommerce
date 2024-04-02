@@ -45,7 +45,10 @@ export default function Home() {
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
           ljgdfnk;vbfnlknsd;kjfvb;osjdlnbvjlsdbk
-          fuivsg;ldhefcui;sljkdfclhbsdjkchkasd
+          fuivsg;ldhefcui;sljkdfclhbsdjkchkasdglmrnlk;
+        fsmnnlkenrgfsrjngljkrsblkgnsk
+            rglknrdlkgnlkdrn
+          njbjkbjk
           </p>
         </a>
 
